@@ -1,0 +1,43 @@
+{
+  "studio": {
+    "name": "استودیو دَهیونام",
+    "logo": "assets/dahyunam-logo.png",
+    "bio": "استودیویی مستقل در حوزه خلق و توسعه آثار دیجیتال؛ فعال در زمینه‌های بازی‌سازی 🎮، برنامه‌نویسی 💻، طراحی و توسعه وب‌سایت 🌐 و اپلیکیشن 📱.\n«دَهیونام» نامی ایرانی و اصیل با مفهوم \"سرزمین و سرزمین کهن\" است؛ نمادی از ریشه، هویت و خلق آینده‌ای نو بر پایه اصالت و خلاقیت. 🏛️✨\nدَهیونام؛ خلق ایده‌ها، ساخت جهان‌های تازه. 🚀",
+    "email": "DahyunamStudio@gmail.com",
+    "social": {
+      "telegram": "https://t.me/DahyunamStudio",
+      "rubika": "https://rubika.ir/DahyunamStudio",
+      "instagram": "https://instagram.com/DahyunamStudio",
+      "youtube": "https://youtube.com/@DahyunamStudio",
+      "aparat": "https://aparat.com/DahyunamStudio",
+      "github": "https://github.com/DahyunamStudio"
+    }
+  },
+  "slider": [
+    {
+      "image": "assets/slider/maryam-butterflies-slider.png",
+      "alt": "پوستر مریم و پروانه ها"
+    }
+  ],
+  "products": [
+    {
+      "id": "maryam-butterflies",
+      "type": "game",
+      "title": "مریم و پروانه ها",
+      "date": "۱۴۰۵/۰۶/۳۰",
+      "cover": "assets/games/maryam/poster.png",
+      "gallery": [
+        "assets/games/maryam/screenshot-1.jpg",
+        "assets/games/maryam/screenshot-2.jpg",
+        "assets/games/maryam/screenshot-3.jpg"
+      ],
+      "video": {
+        "url": "https://www.aparat.com/v/gkmet78",
+        "thumbnail": "assets/games/maryam/thumbnail.png"
+      },
+      "description": "<h2 style=\"text-align: center; box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; font-size: 14.4px; line-height: 1.6; text-rendering: optimizelegibility; color: rgb(10, 10, 10); font-family: &quot;Yekan Bakh FaNum&quot;, Ubuntu, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif;\"></h2><h2 style=\"text-align: center; box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300;\"><span style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; font-weight: 700; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: inherit;\">وقتی رویاها با جنگ به پایان می‌رسند...</span></h2><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\"><br style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent;\"></p><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\">در نقش «مریم»، شخصیت اصلی بازی، قدم به دنیایی بگذارید که در آن برای آزاد کردن پروانه‌ها و نجات آن‌ها، باید از میان چالش‌ها و موانع مختلف عبور کنید.<br style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent;\"></p><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\"><br style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent;\"></p><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\"><span style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; font-weight: 700; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: inherit;\">«مریم و پروانه‌ها» ادای احترامی است به پروانه‌های جنگ؛ به آن‌هایی که رویاهایشان ناتمام ماند و دیگر در میان ما نیستند.</span><br style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent;\"></p><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\"><span style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; font-weight: 700; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: inherit;\"><br></span></p><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\">این بازی به یاد آن‌ها ساخته شده است؛ تا یادشان، همچون پروانه‌ای که آزاد می‌شود، برای همیشه زنده بماند.</p><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\"><br></p><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\">لینک های دانلود بازی در بخش زیر قابل مشاهده هستند :</p>",
+      "links": []
+    }
+  ],
+  "articles": []
+}
