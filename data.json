@@ -36,31 +36,13 @@
         "thumbnail": "assets/games/maryam/thumbnail.png"
       },
       "description": "<h2 style=\"text-align: center; box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; font-size: 14.4px; line-height: 1.6; text-rendering: optimizelegibility; color: rgb(10, 10, 10); font-family: &quot;Yekan Bakh FaNum&quot;, Ubuntu, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif;\"></h2><h2 style=\"text-align: center; box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300;\"><span style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; font-weight: 700; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: inherit;\">وقتی رویاها با جنگ به پایان می‌رسند...</span></h2><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\"><br style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent;\"></p><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\">در نقش «مریم»، شخصیت اصلی بازی، قدم به دنیایی بگذارید که در آن برای آزاد کردن پروانه‌ها و نجات آن‌ها، باید از میان چالش‌ها و موانع مختلف عبور کنید.<br style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent;\"></p><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\"><br style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent;\"></p><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\"><span style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; font-weight: 700; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: inherit;\">«مریم و پروانه‌ها» ادای احترامی است به پروانه‌های جنگ؛ به آن‌هایی که رویاهایشان ناتمام ماند و دیگر در میان ما نیستند.</span><br style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent;\"></p><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\"><span style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; font-weight: 700; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: inherit;\"><br></span></p><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\">این بازی به یاد آن‌ها ساخته شده است؛ تا یادشان، همچون پروانه‌ای که آزاد می‌شود، برای همیشه زنده بماند.</p><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\"><br></p><p style=\"box-sizing: inherit; border: 0px solid rgb(228, 228, 231); margin: 0px; padding: 0px; scrollbar-width: thin; scrollbar-color: rgb(193, 193, 193) transparent; line-height: 1.6; text-rendering: optimizelegibility; font-weight: 300; text-align: right;\">لینک های دانلود بازی در بخش زیر قابل مشاهده هستند :</p>",
-      "links": []
+      "links": [
+        {
+          "title": "لینک دانلود از کافه بازار",
+          "url": "https://cafebazaar.ir/app/com.DahyunamStudio.MaryamAndButterflies"
+        }
+      ]
     }
   ],
-  "articles": [
-    {
-      "id": "article-mubqgtemb",
-      "type": "article",
-      "title": "مقاله تست می باشید",
-      "date": "۱۴۰۵/۰۶/۳۱",
-      "cover": "assets/games/maryam/poster.png",
-      "gallery": [],
-      "video": null,
-      "description": "<h2>تست مقاله</h2>",
-      "links": []
-    },
-    {
-      "id": "article-mubquoo2k",
-      "type": "article",
-      "title": "articles test",
-      "date": "۱۴۰۵/۰۶/۳۱",
-      "cover": "assets/games/maryam/poster.png",
-      "gallery": [],
-      "video": null,
-      "description": "<p><br></p>",
-      "links": []
-    }
-  ]
+  "articles": []
 }
