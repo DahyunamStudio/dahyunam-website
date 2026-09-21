@@ -39,5 +39,17 @@
       "links": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "article-mubqgtemb",
+      "type": "article",
+      "title": "مقاله تست می باشید",
+      "date": "۱۴۰۵/۰۶/۳۱",
+      "cover": "assets/games/maryam/poster.png",
+      "gallery": [],
+      "video": null,
+      "description": "<h2>تست مقاله</h2>",
+      "links": []
+    }
+  ]
 }
